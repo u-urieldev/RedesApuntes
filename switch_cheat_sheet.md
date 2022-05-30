@@ -34,7 +34,7 @@
 
 * <h3> Memoria </h3>
 
-    * Ver la configuracin acutual
+    * Ver la configuracin acutual (interfaces)
         <code>show run</code>
 
     * Guardar la configuracion acual en flask
@@ -46,3 +46,4 @@
     * Arrancar con la configuracion de la flask
         <code>copy run start</code>
 
+* do: para ejecutar desde cualquier modo
